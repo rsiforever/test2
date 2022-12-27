@@ -1,59 +1,4 @@
 {
-	"success": true,
-	"result": {
-		"include_total": true,
-		"resource_id": "0daad6e6-0632-44f5-bd25-5e1de1e9146f",
-		"fields": [
-			{
-				"type": "int",
-				"id": "_id"
-			},
-			{
-				"type": "text",
-				"id": "parkId"
-			},
-			{
-				"type": "text",
-				"id": "areaId"
-			},
-			{
-				"type": "text",
-				"id": "areaName"
-			},
-			{
-				"type": "text",
-				"id": "parkName"
-			},
-			{
-				"type": "int4",
-				"id": "totalSpace"
-			},
-			{
-				"type": "text",
-				"id": "surplusSpace"
-			},
-			{
-				"type": "text",
-				"id": "payGuide"
-			},
-			{
-				"type": "text",
-				"id": "introduction"
-			},
-			{
-				"type": "text",
-				"id": "address"
-			},
-			{
-				"type": "float8",
-				"id": "wgsX"
-			},
-			{
-				"type": "float8",
-				"id": "wgsY"
-			}
-		],
-		"records_format": "objects",
 		"records": [
 			{
 				"_id": 1,
@@ -84,8 +29,5 @@
 				"wgsY": 25.0178
 			}
 		],
-		"offset": 0,
-		"total": 101,
-		"limit": 100
 	}
 }
