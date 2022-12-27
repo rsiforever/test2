@@ -52,7 +52,7 @@
 				"type": "float8",
 				"id": "wgsY"
 			},
-		],
+		]
 		"records_format": "objects",
 		"records": [
 			{
@@ -83,8 +83,7 @@
 				"wgsX": 121.3093,
 				"wgsY": 24.9926
 			},
-			
-		],
+		]
 		"offset": 0,
 		"total": 101,
 		"limit": 100
