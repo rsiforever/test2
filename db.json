@@ -52,7 +52,7 @@
 				"type": "float8",
 				"id": "wgsY"
 			}
-		],
+		]
 		"records_format": "objects",
 		"records": [
 			{
@@ -82,7 +82,7 @@
 				"address": "桃園市桃園區民權路32號",
 				"wgsX": 121.3093,
 				"wgsY": 24.9926
-			},
+			}
 			
 		]
 		"offset": 0,
