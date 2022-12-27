@@ -3,7 +3,7 @@
 	"result": {
 		"include_total": true,
 		"resource_id": "0daad6e6-0632-44f5-bd25-5e1de1e9146f",
-		"fields": {
+		"fields": [
 			{
 				"type": "int",
 				"id": "_id"
@@ -52,9 +52,9 @@
 				"type": "float8",
 				"id": "wgsY"
 			},
-		},
+		],
 		"records_format": "objects",
-		"records": {
+		"records": [
 			{
 				"_id": 1,
 				"parkId": "P-TY-001",
@@ -84,7 +84,7 @@
 				"wgsY": 24.9926
 			},
 			
-		},
+		],
 		"offset": 0,
 		"total": 101,
 		"limit": 100
