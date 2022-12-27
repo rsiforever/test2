@@ -51,8 +51,8 @@
 			{
 				"type": "float8",
 				"id": "wgsY"
-			},
-		]
+			}
+		],
 		"records_format": "objects",
 		"records": [
 			{
@@ -70,20 +70,20 @@
 				"wgsY": 24.9934
 			},
 			{
-				"_id": 2,
-				"parkId": "P-TY-003",
-				"areaId": "1",
-				"areaName": "桃園區",
-				"parkName": "新民立體停車場",
-				"totalSpace": 191,
-				"surplusSpace": "76",
-				"payGuide": "收費費率：30元/小時。停車時數未滿一小時者，以一小時計算。逾一小時者，其超過之不滿一小時部分，如不逾三十分鐘者，以半小時計算；如逾三十分鐘者，仍以一小時計算收費。",
-				"introduction": "桃園區公所管轄之公有停車場",
-				"address": "桃園市桃園區民權路32號",
-				"wgsX": 121.3093,
-				"wgsY": 24.9926
-			},
-		]
+				"_id": 100,
+				"parkId": "P-JL-054",
+				"areaId": "9",
+				"areaName": "大園區",
+				"parkName": "置地廣場桃園A區",
+				"totalSpace": 500,
+				"surplusSpace": "213",
+				"payGuide": "停車費率:30元/小時",
+				"introduction": "桃園市大園區",
+				"address": "桃園市大園區橫峰里春德路１０１號Ｂ１－Ｂ３",
+				"wgsX": 121.2115,
+				"wgsY": 25.0178
+			}
+		],
 		"offset": 0,
 		"total": 101,
 		"limit": 100
